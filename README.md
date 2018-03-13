@@ -1,4 +1,4 @@
-## Convex-Optimization
+## Convex-Optimization CSE 592
 
 The PDF contains proof of affine invariance of Newton's Algorithm.
 
